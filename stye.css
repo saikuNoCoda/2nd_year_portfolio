@@ -1,0 +1,119 @@
+
+.maint {
+font-family: 'Pacifico', cursive;
+font-size: 20px;
+      }
+
+.maint1 {
+font-family: 'Pacifico', cursive;
+font-size: 10px;
+      }
+      .main-header {
+	background-color:  #599a68;
+padding-top: 170px; 
+height: 750px;
+background:
+#6ab47b url('gg.jpg') no-repeat center;
+background-size: cover;
+background-position: center;
+			background-repeat:  no-repeat;
+			background-attachment: fixed;
+}
+
+.title {
+color: black;
+border-bottom: 2px solid;
+padding-bottom: 10px;
+text-shadow: 10px 10px 30px black;
+}
+h1,
+h2 {
+	font-family: 'Abolition Regular',Helvetica , Arial , sans-serif;
+}
+h1 {
+	margin: 12px 0 0;
+	color: white;
+	line-height: 1.3;
+	 text-shadow: 10px 10px 30px black;
+}
+#hh {
+	margin: 12px 0 0;
+	color: #E6E2AF;
+	 text-shadow: 10px 10px 30px black;
+}
+.main-header {
+text-align: center;
+}
+.arrow {
+	width: 50px;
+	margin-top: 130px;
+}
+.aboutt {
+float: left;
+width: 48%;
+}
+.skills {
+
+}
+.aboutt1 {
+float: right;
+width: 48%;
+
+}
+.ol {
+	list-style: none;
+}
+.image {
+	width:35%;
+}
+@media only screen and (max-width: 1000px) {
+.aboutt1 {
+	display: none;
+}
+.pppp{
+	float: left;
+	display: inline;
+}
+.aboutt {
+	float: none;
+	width: 90%;
+	margin: auto;
+}
+.imaaa {
+	
+}
+}
+.cliente3 {
+    border: #FF00FF medium solid;
+    
+}
+.imaaa{
+	height:220px;
+	width: 100%;
+}
+a {
+	text-decoration: none;
+}
+.llll {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+
+.navbar-fixed-top {
+	position: fixed;
+	width: 100%;
+	z-index: 999;
+}
+.kkkk{
+	background-color:  #599a68; 
+height: 100%;
+background:
+#6ab47b url('bb.jpg') no-repeat center;
+background-size: cover;
+background-position: center;
+			background-repeat:  no-repeat;
+			background-attachment: fixed;
+
+}
